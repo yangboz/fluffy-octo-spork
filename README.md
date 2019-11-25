@@ -1,2 +1,2 @@
 # fluffy-octo-spork
-fluffy-octo-spork for emotiv cortex application test.
+fluffy-octo-spork for emotiv cortex application(zcOnBET6jU4dePXilB83gyvjalWVL0vf8SlzVyJLedwNAjtdMqfY87fOkswrcfpbpxRqKZvWWGD2yoWRf5eQsaWPvTwl3REF6hyzAk8ItDcSwMQY6ckJgm06YBDz9Djm) test.
